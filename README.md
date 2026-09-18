@@ -55,7 +55,7 @@ userDatabase
 Successful connection message:
 
 ```text
-MongoDB connected successfully
+MongoDB connected successfully...
 ```
 
 ### Task 2: Create User Schema
@@ -106,7 +106,7 @@ Example request:
 Successful response:
 
 ```text
-User added successfully
+User added successfully...
 ```
 
 ### Task 6: GET `/api/users`
@@ -161,14 +161,14 @@ http://localhost:8000
 ### MongoDB Connection
 
 ```text
-MongoDB connected successfully
+MongoDB connected successfully...
 Server running on port 8000
 ```
 
 ### POST Request
 
 ```text
-User added successfully
+User added successfully...
 ```
 
 ### GET Request
