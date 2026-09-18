@@ -14,7 +14,6 @@ A beginner-friendly Node.js Express assignment created to understand **MongoDB c
 ## Project Structure
 
 ```text
-Assignment-8/
 ├── Screenshots/
 ├── model/
 │   └── userModel.js
